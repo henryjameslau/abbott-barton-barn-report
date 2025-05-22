@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "all_facilities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Olivers Battery Post Office", "type": "post_office", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.347579388332042, 51.04787219503109 ] } },
+{ "type": "Feature", "properties": { "name": "Winchester Post Office", "type": "post_office", "operator": "WHSmith" }, "geometry": { "type": "Point", "coordinates": [ -1.31442098830699, 51.062885395043011 ] } },
+{ "type": "Feature", "properties": { "name": "Springvale Post Office", "type": "post_office", "operator": "Springvale Stores" }, "geometry": { "type": "Point", "coordinates": [ -1.299680388278648, 51.100729495071747 ] } },
+{ "type": "Feature", "properties": { "name": "Sparsholt Post Office", "type": "post_office", "operator": "Sparsholt Village Shop" }, "geometry": { "type": "Point", "coordinates": [ -1.379123088331115, 51.078662095053659 ] } },
+{ "type": "Feature", "properties": { "name": "Stoney Lane Post Office", "type": "post_office", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.336047688311744, 51.074085795051005 ] } },
+{ "type": "Feature", "properties": { "name": "Stanmore News Food & Wine", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.328845488318338, 51.055532795037216 ] } },
+{ "type": "Feature", "properties": { "name": "One Stop", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.343743788325768, 51.055724495037069 ] } },
+{ "type": "Feature", "properties": { "name": "BP Shop", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.320666188315171, 51.053784395036047 ] } },
+{ "type": "Feature", "properties": { "name": "One Stop", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.299648488298466, 51.064831595044744 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Express", "type": "shops", "operator": "Tesco" }, "geometry": { "type": "Point", "coordinates": [ -1.305031388280439, 51.102383695072874 ] } },
+{ "type": "Feature", "properties": { "name": "Beechcroft Farm Shop", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.376432888339822, 51.060336795039909 ] } },
+{ "type": "Feature", "properties": { "name": "SU Shop", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.326209288314725, 51.059661195040363 ] } },
+{ "type": "Feature", "properties": { "name": "Springvale Stores", "type": "shops", "operator": "Premier" }, "geometry": { "type": "Point", "coordinates": [ -1.299712688278641, 51.100770695071759 ] } },
+{ "type": "Feature", "properties": { "name": "Spar", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.336053888311733, 51.074110695051033 ] } },
+{ "type": "Feature", "properties": { "name": "Premier", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.336842488323874, 51.052826695035002 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Express", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.313681488306859, 51.062448595042696 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Extra", "type": "shops", "operator": "Tesco Stores Ltd" }, "geometry": { "type": "Point", "coordinates": [ -1.293609619968613, 51.068319511503113 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsbury's", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.340222324446314, 51.045846295354544 ] } },
+{ "type": "Feature", "properties": { "name": "Waitrose", "type": "shops", "operator": "Waitrose & Partners" }, "geometry": { "type": "Point", "coordinates": [ -1.336949891576882, 51.074310540865447 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Express", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.318525982082349, 51.069027329508387 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsbury's", "type": "shops", "operator": "Sainsbury's Supermarkets Ltd" }, "geometry": { "type": "Point", "coordinates": [ -1.31172107298326, 51.062221297222749 ] } },
+{ "type": "Feature", "properties": { "name": "Co-op Food", "type": "shops", "operator": "The Southern Co-operative" }, "geometry": { "type": "Point", "coordinates": [ -1.317345396622813, 51.066643695452264 ] } },
+{ "type": "Feature", "properties": { "name": "Sparsholt Village Shop", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.379169405409158, 51.078697094028925 ] } },
+{ "type": "Feature", "properties": { "name": "ALDI", "type": "shops", "operator": "Aldi Stores Limited" }, "geometry": { "type": "Point", "coordinates": [ -1.337390807185855, 51.074887330388542 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Express", "type": "shops", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.333358930269171, 51.082305501615451 ] } },
+{ "type": "Feature", "properties": { "name": "Proposed Location", "type": "proposed_location", "operator": null }, "geometry": { "type": "Point", "coordinates": [ -1.310735015875909, 51.073850126193413 ] } }
+]
+}

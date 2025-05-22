@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "proposed_location_post_voronoi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.323488547998984, 51.069823227672643 ], [ -1.323010569134064, 51.090192376301935 ], [ -1.274071175211384, 51.082205643626246 ], [ -1.274071164089422, 51.063222032971922 ], [ -1.323488547998984, 51.069823227672643 ] ] ] } }
+]
+}
